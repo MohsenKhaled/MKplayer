@@ -16,7 +16,7 @@
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.0.2",
     "node": "^13.6.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "package-json": "^6.5.0"
   },
   "devDependencies": {},
